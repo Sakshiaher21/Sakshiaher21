@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sakshi
 
-🎓 Aspiring Data Analyst | Computer Engineering Graduate | Python, SQL, Excel & BI Tools  
+🎓Data Analyst | Computer Engineering Graduate | Python, SQL, Excel & BI Tools  
 
 ---
 
@@ -26,11 +26,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
-
-## 🔹 GitHub Stats
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshiaher21&show_icons=true&theme=radical)  
-
 ---
 
 ## 🔹 Connect with Me
