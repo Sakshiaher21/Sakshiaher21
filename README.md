@@ -14,9 +14,9 @@
 
 
 ## 🔹 Skills
-- **Programming & Data**: Python | SQL | Pandas | NumPy | Matplotlib | Seaborn  
-- **Data Tools & Analytics**: Excel | Tableau | Power BI | Data Cleaning | Data Visualization  
-- **Other Skills**: Analytical Thinking | Problem Solving | Dashboard Creation  
+- **Languages**: Python | SQL
+- **Data Tools & Analytics**: Excel | Tableau | Power BI
+- **Other Skills**: Analytical Thinking | Problem Solving 
 
 ---
 ### 🛠 Skills & Tools  
